@@ -8,3 +8,6 @@ Twython
 ### todo
 ✔︎ sample code    
 ✔︎ requirements.txt
+
+#### 押忍Bot(Osu Bot)
+https://twitter.com/osu_bot_osu
