@@ -14,9 +14,12 @@ twitter = Twython(APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 
 
 def postTweet(phrase):
-    twitter.update_status(status=phrase)
+    try:
+        twitter.update_status(status=phrase)
+    except TwythonError as e:
+        print("error:" + e)
     
-
+    
 def main():
     postTweet('Hello World')
 
