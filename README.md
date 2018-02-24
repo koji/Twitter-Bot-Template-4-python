@@ -6,5 +6,5 @@ json
 Twython  
 
 ### todo
-sample code  
-setup.py  
+✔︎ sample code  
+✔︎ setup.py  
