@@ -1,0 +1,6 @@
+{
+    "APP_KEY" : "app_key",
+    "APP_SECRET" :"app_secret",
+    "OAUTH_TOKEN" :"oauth_token",
+    "OAUTH_TOKEN_SECRET" :"oauth_token_secret"
+}
