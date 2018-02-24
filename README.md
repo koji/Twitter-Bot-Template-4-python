@@ -7,4 +7,4 @@ Twython
 
 ### todo
 ✔︎ sample code    
-✔︎ requirements
+✔︎ requirements.txt
